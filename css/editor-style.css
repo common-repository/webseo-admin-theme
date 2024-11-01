@@ -1,0 +1,8 @@
+#tinymce {
+    margin: 0!important;
+    padding: 0 10px!important;
+}
+.wp-editor-tabs {
+    float: right;
+    padding-right: 5px;
+}
